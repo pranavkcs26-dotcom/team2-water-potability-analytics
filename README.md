@@ -78,6 +78,6 @@ The standalone interactive Plotly dashboard is generated locally as an offline H
 
 | Contributor Name | GitHub Handle | Assigned Module / Tasks | Verified Commit Hash Range | Merged Pull Request |
 | :--- | :--- | :--- | :--- | :--- |
-| [Member 1 Full Name] | `@pranavkcs26-dotcom` | Package Setup, `src/ingestion.py` (Q1–Q3), `run_pipeline.py` & `README.md` | `initial`..`HEAD` | `#1 (feature/ingestion)` |
-| [Member 2 Full Name] | `@member2_handle` | Statistical & NumPy/Pandas Engine `src/analyzer.py` (Q4–Q9) | `initial`..`HEAD` | `#2 (feature/analysis)` |
-| [Member 3 Full Name] | `@member3_handle` | Visualization Suite `src/visualizer.py` (Q10–Q12) & `notebooks/development_cycle.ipynb` | `initial`..`HEAD` | `#3 (feature/visualization)` |
+| Aswathy MS | `aswathycs26-gif` | Package Setup, `src/ingestion.py` (Q1–Q3), `run_pipeline.py` & `README.md` | `initial`..`HEAD` | `#1 (feature/ingestion)` |
+| Pranav Krishna S | `@@pranavkcs26-dotcom ` | Statistical & NumPy/Pandas Engine `src/analyzer.py` (Q4–Q9) | `initial`..`HEAD` | `#2 (feature/analysis)` |
+| Roshni A N | `@Roshni-A-N` | Visualization Suite `src/visualizer.py` (Q10–Q12) & `notebooks/development_cycle.ipynb` | `initial`..`HEAD` | `#3 (feature/visualization)` |
