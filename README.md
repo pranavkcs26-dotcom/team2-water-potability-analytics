@@ -27,7 +27,7 @@ jupyter notebook notebooks/development_cycle.ipynb
 ## 5. Key Analytical & Statistical Findings (Q1–Q12 Summary)
 [Provide a concise markdown summary table detailing raw vs. clean counts, regression coefficients, anoma
 ## 6. Standalone Interactive Visualizations
-The standalone interactive Plotly dashboard is generated locally as an offline HTML artifact:- File Location: `reports/interactive_dashboard.html` (viewable directly in any standard web browser wit
+The standalone interactive Plotly dashboard is generated locally as an offline HTML artifact:- File Location: `reports/interactive_dashboard.html` (viewable directly in any standard web browser)
 ## 7. Contributor Git Commit & Pull Request Log Table
 | Contributor Name | GitHub Handle | Assigned Module / Tasks | Verified Commit Hash Range | Merged Pull 
 | :--- | :--- | :--- | :--- | :--- |
