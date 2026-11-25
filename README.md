@@ -1,19 +1,13 @@
-# Project 02: Water Quality Potability & Hydro-Chemical Contamination Analyzer
+Project 02: Water Quality Potability & Hydro-Chemical Contamination Analyzer
+Course Python License
 
-[![Course](https://img.shields.io/badge/Course-Programming%20in%20Python-blue.svg)](https://duk.ac.in)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-brightgreen.svg)](https://python.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+1. Project Overview & Domain Context
+Institution: Digital University Kerala (MTech AI / MSc AI)
+Course: M4010104 / M4020104 Programming in Python | Instructor: Dr. Sunil TT
+Dataset: Water Quality and Potability Dataset on Kaggle
+This analytical pipeline audits raw municipal and watershed water telemetry across nine physicochemical attributes (ph, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic_carbon, Trihalomethanes, and Turbidity), filters out physical/chemical boundary violations, imputes missing sensor intervals via potability-class-conditional medians, derives an empirical Water Quality Index (WQI), models multi-pollutant relationships, and exports static and interactive visualizations.
 
-## 1. Project Overview & Domain Context
-* **Institution:** Digital University Kerala (MTech AI / MSc AI)
-* **Course:** M4010104 / M4020104 Programming in Python | **Instructor:** Dr. Sunil TT
-* **Dataset:** [Water Quality and Potability Dataset on Kaggle](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
-
-This analytical pipeline audits raw municipal and watershed water telemetry across nine physicochemical attributes (`ph`, `Hardness`, `Solids`, `Chloramines`, `Sulfate`, `Conductivity`, `Organic_carbon`, `Trihalomethanes`, and `Turbidity`), filters out physical/chemical boundary violations, imputes missing sensor intervals via potability-class-conditional medians, derives an empirical Water Quality Index (WQI), models multi-pollutant relationships, and exports static and interactive visualizations.
-
-## 2. System Architecture & Pipeline Design
-
-```text
+2. System Architecture & Pipeline Design
 +-----------------------------------+
 |  data/raw/water_potability_raw.csv|
 +-----------------+-----------------+
