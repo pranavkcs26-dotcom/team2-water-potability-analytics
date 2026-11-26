@@ -75,7 +75,6 @@ The standalone interactive Plotly dashboard is generated locally as an offline H
 * **File Location:** `reports/interactive_dashboard.html` (viewable directly in any standard web browser without requiring a running Python server).
 
 ## 7. Contributor Git Commit & Pull Request Log Table
-
 | Contributor Name | GitHub Handle | Assigned Module / Tasks | Verified Commit Hash Range | Merged Pull Request |
 | :--- | :--- | :--- | :--- | :--- |
 | Aswathy MS | `aswathycs26-gif` | Package Setup, `src/ingestion.py` (Q1–Q3), `run_pipeline.py` & `README.md` | `initial`..`HEAD` | `#1 (feature/ingestion)` |
